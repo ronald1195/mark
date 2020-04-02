@@ -1,0 +1,2 @@
+# mark
+Mark is an interactive application that uses PyQt5 to create a basic image editor. You can create marks based on any image that you want and then apply those marks to individual files in a folder or entire folders. This is a project that I decided to work on my own as a college student. The project is based in Python and it demonstrates the basic skills of how to use PyQt5 to create a GUI based application. Feel free to reach out to me with any questions about the code.
