@@ -1,0 +1,25 @@
+QMainWindow {
+  background: #2F2F2F;
+}
+
+/* CSS FOR THE BUTTON */
+QPushButton#addButton{
+	background-color: transparent;
+	/* border-image: url("plus.png"); */
+	color: gray;
+}
+
+QPushButton#addButton:pressed { 
+	background-color: transparent;
+	color: black;
+}
+
+QPushButton#addButton:hover { 
+	color: black;
+}
+
+
+QDialog{
+	background-color: blue;
+}
+
