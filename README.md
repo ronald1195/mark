@@ -16,6 +16,7 @@ To be able to run the Mark application you will need to have python installed in
 
 
 
-
+----------------------------------------------------------------------------------------------------------------------------
 ##### Disclaimer
+----------------------------------------------------------------------------------------------------------------------------
 Sections of the code that the mark application code uses is opensource code. This was used for a college course and all credit of any used code goes to the original creators of it, and me. This is not the final version of a project at all. It needs refinement, which it will happen. Feel free to leave comment and reach out with any questions.
